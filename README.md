@@ -1,4 +1,4 @@
-Here is a suggested course structure for each day, broken down into hourly sessions over 6 hours per day:
+## "course structure"
 
 ### **Day 1: Agile Software Engineering & DevOps Fundamentals**
 
