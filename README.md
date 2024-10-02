@@ -1,4 +1,4 @@
-## "course structure"
+## course structure
 
 ### **Day 1: Agile Software Engineering & DevOps Fundamentals**
 
